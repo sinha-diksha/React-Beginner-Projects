@@ -6,6 +6,7 @@ const App = () => {
     <div>
       <Navigation />
       <Hero />
+      <p>This is just a dummy</p>
     </div>
   );
 };
